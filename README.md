@@ -19,14 +19,15 @@ references/
 ```
 ## Table of Contents (Optional)
 
-> If you're `README` has a lot of info, section headers might be nice.
-
 - [Installation](#installation)
-- [Features](#features)
+- [Clone](#Clone)
+- [Setup](#Setup)
+- [Usage](#Clone)
+- [Change log](#Change log)
 - [Contributing](#contributing)
+- [Credits](#Credits)
 
-
-## Install
+## Installation
 
 Via Package Manager Name
 
