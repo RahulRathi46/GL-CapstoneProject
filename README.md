@@ -23,7 +23,7 @@ references/
 - [Clone](#Clone)
 - [Setup](#Setup)
 - [Usage](#Clone)
-- [Change log](#Change log)
+- [Changelog](#Changelog)
 - [Contributing](#contributing)
 - [Credits](#Credits)
 
@@ -53,7 +53,7 @@ if requide
 Get started help and codes
 ```
 
-## Change log
+## Changelog
 
 Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed recently.
 
