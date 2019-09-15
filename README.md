@@ -1,5 +1,6 @@
 ## Project Title
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/3)](https://www.python.org)
 
 This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what
 PSRs you support to avoid any confusion with users and contributors.
@@ -15,7 +16,7 @@ If any of the following are applicable to your project, then the directory struc
 dataset/
 scripts/
 notebooks/
-references/
+docs/
 ```
 ## Table of Contents (Optional)
 
