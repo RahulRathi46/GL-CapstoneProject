@@ -1,4 +1,4 @@
-## Project Title
+## Walmart Weekly Sales Prediction
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/3)](https://www.python.org)
 
